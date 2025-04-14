@@ -41,11 +41,7 @@ Soy estudiante de Ingeniería Informática con experiencia en desarrollo de apli
 
 ## 📫 Contacto
 
-- 📧 Correo: [tu_correo@example.com]
-- 🌐 LinkedIn: [https://www.linkedin.com/in/tu_usuario](https://www.linkedin.com/in/tu_usuario)
-- 🐦 Twitter: [https://twitter.com/tu_usuario](https://twitter.com/tu_usuario)
+- 📧 Correo: [josenilson.cueva@gmail.com]
+- 🌐 LinkedIn: [https://www.linkedin.com/in/jose-nilson-cueva-ramos-514032310](https://www.linkedin.com/in/jos%C3%A9-nilson-cueva-ramos-514032310/)
 
-## 📈 Estadísticas de GitHub
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JoseCuevaRamos&show_icons=true&theme=tokyonight)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=tu_usuario&theme=tokyonight)
